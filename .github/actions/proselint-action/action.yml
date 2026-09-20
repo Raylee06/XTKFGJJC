@@ -1,0 +1,5 @@
+name: 'Proselint Checker'
+description: 'Runs proselint on markdown files'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
